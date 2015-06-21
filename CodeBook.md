@@ -11,6 +11,7 @@ The resulting `./tidy_data.txt` dataset includes mean and standard deviation var
 
 tBodyAcc, tGravityAcc, tBodyAccJerk, tBodyGyro, tBodyGyroJerk, tBodyAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag, fBodyAcc, fBodyAccJerk, fBodyGyro, fBodyAccMag, fBodyBodyAccJerkMag, fBodyBodyGyroMag, fBodyBodyGyroJerkMag. All three X, Y, Z directions are included.
 
+The units and formats of the output data retains the same as the input. 
 
 ## Operations
 
